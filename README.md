@@ -1,4 +1,4 @@
-# Tutorial-9.1-Embedded-Systems-and-IoT
+# Tutorial-8-Embedded-Systems-and-IoT
 **การใช้ IoT platform Blynk หรือ Anto.io**
 
 
@@ -7,15 +7,18 @@
 
 **Hardware**
 1.	ESP32                 1	        
-2.	LED หรือ sensor ตามต้องการ
-3.	Breadboard            1
-4.	Computer	            1
-5.	microUSB	            1
+2.	LED                   2
+3.	หรือ sensor ตามต้องการ  1
+4.	Breadboard            1
+5.	Computer	            1
+6.	microUSB	            1
 
 **Software**
-1. Arduino IDE v
+1. Arduino IDE vล่าสุด
 --------------------
 **Instruction**
+
+ให้นักศึกษาเลือกอย่างใดอย่างหนึ่งระหว่าง Blynk และ Anto
 
 ![image](https://github.com/keeratiburt/Tutorial-9-Embedded-Systems-and-IoT-IoT-Platforms/assets/125423996/f190185a-e0c9-4e73-a6c3-8dc745bbd14a) <br>
 **กรณีใช้ Blynk**
